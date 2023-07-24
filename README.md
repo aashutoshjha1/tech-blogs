@@ -2,5 +2,8 @@
 This repo list all tech blogs on system, storage, databases and virtualisation
 
 
-1. **Virtio: An I:O virtualization framework for Linux**
+ **Virtio: An I:O virtualization framework for Linux**
    This is about foundation and architecture of virtio and use of same in paravirtualization.
+   ** Introduction to Virtio**
+   https://blogs.oracle.com/linux/post/introduction-to-virtio
+
