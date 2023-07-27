@@ -13,7 +13,8 @@ This repo list all tech blogs on system, storage, databases and virtualisation
 
    **RearchitectingLinuxStorageStackforµsLatencyandHighThroughput**
    https://www.cs.cornell.edu/~ragarwal/pubs/blk-switch.pdf
-
+   **Peak behind Google Colossus file system behind** 
+   https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system
 **Netowkring **
 
    **Multipath TCP:**
