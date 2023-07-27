@@ -1,7 +1,7 @@
 # tech-blogs
 This repo list all tech blogs on system, storage, databases and virtualisation
 
-**Virtualization**
+//Virtualization**
 
  **Virtio: An I:O virtualization framework for Linux**
    This is about foundation and architecture of virtio and use of same in paravirtualization.
@@ -9,13 +9,13 @@ This repo list all tech blogs on system, storage, databases and virtualisation
  **Introduction to Virtio**
    https://blogs.oracle.com/linux/post/introduction-to-virtio
 
-**Storage **
+//Storage 
 
    **RearchitectingLinuxStorageStackforµsLatencyandHighThroughput**
    https://www.cs.cornell.edu/~ragarwal/pubs/blk-switch.pdf
    **Peak behind Google Colossus file system behind** 
    https://cloud.google.com/blog/products/storage-data-transfer/a-peek-behind-colossus-googles-file-system
-**Netowkring **
+//Netowkring
 
    **Multipath TCP:**
    http://multipath-tcp.org/
