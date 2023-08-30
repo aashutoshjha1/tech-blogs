@@ -32,3 +32,9 @@ This repo list all tech blogs on system, storage, databases and virtualisation
    **NVME/TCP**
    https://blogs.oracle.com/linux/post/nvme-over-tcp
 
+
+#Python
+
+**Fast and thread-safe Python**
+https://opensource.com/article/17/4/grok-gil
+
