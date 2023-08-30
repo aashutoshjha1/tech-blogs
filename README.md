@@ -20,6 +20,9 @@ This repo list all tech blogs on system, storage, databases and virtualisation
    **File Sync algorithm and conflict resolution during file sync**
    https://ianhowson.com/blog/file-synchronisation-algorithms/
 
+   **Demikernel Datapath OS**
+   demikernel datapath OS.pdf
+
 
 #Networks
 
