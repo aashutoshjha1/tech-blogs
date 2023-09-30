@@ -38,3 +38,10 @@ This repo list all tech blogs on system, storage, databases and virtualisation
 **Fast and thread-safe Python**
 https://opensource.com/article/17/4/grok-gil
 
+
+# Container /Kubernates
+  
+  ** LINUX NAMESPACES **
+  https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html
+  https://blog.quarkslab.com/digging-into-linux-namespaces-part-2.html
+
