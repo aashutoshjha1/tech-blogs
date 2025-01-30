@@ -49,4 +49,6 @@ https://opensource.com/article/17/4/grok-gil
 # Databases 
      **ROCKS DB Storage Engine**
      https://github.com/facebook/rocksdb/wiki/RocksDB-Overview
+     **TIDB disaggregated storage & compute Architecture**
+     https://docs.pingcap.com/tidb/stable/tiflash-disaggregated-and-s3/#architecture-overview
 
