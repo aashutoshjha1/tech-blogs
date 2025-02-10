@@ -45,6 +45,10 @@ https://opensource.com/article/17/4/grok-gil
   https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html
   https://blog.quarkslab.com/digging-into-linux-namespaces-part-2.html
 
+# Storage
+CEPH: Difference between Filestore & Bluestore
+https://www.alibabacloud.com/tech-news/a/ceph/4or7sz1a8q1-understanding-cephs-bluestore-vs-filestore
+
 
 # Databases 
      **ROCKS DB Storage Engine**
