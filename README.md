@@ -52,6 +52,9 @@ https://www.alibabacloud.com/tech-news/a/ceph/4or7sz1a8q1-understanding-cephs-bl
 NVME: NVME Architecture 
 https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/
 
+Adding new storage platform in Kubernates cluster : Kubernates
+https://www.netapp.com/learn/cvo-blg-kubernetes-csi-basics-of-csi-volumes-and-how-to-build-a-csi-driver/
+
 
 # Databases 
      **ROCKS DB Storage Engine**
